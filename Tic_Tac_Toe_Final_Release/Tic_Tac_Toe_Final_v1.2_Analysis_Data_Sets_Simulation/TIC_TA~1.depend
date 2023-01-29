@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1608218341 source:c:\users\wongz\ben'sf~1\degree~2\firsts~1\princi~1\assign~1\swe190~1\tic_ta~1.2_a\main.cpp
+	<iostream>
+	"Tic_Tac_Toe.h"
+
+1608218489 c:\users\wongz\ben'sf~1\degree~2\firsts~1\princi~1\assign~1\swe190~1\tic_ta~1.2_a\include\tic_tac_toe.h
+
+1608218541 source:c:\users\wongz\ben'sf~1\degree~2\firsts~1\princi~1\assign~1\swe190~1\tic_ta~1.2_a\src\tic_tac_toe.cpp
+	<iostream>
+	<stdlib.h>
+	<iomanip>
+	<time.h>
+	"Tic_Tac_Toe.h"
+
+1608218341 source:c:\users\wongz\ben'sf~1\degree~2\firsts~1\princi~1\assign~1\swe190~1\tic_ta~1.1_a\main.cpp
+	<iostream>
+	"Tic_Tac_Toe.h"
+
+1608218489 c:\users\wongz\ben'sf~1\degree~2\firsts~1\princi~1\assign~1\swe190~1\tic_ta~1.1_a\include\tic_tac_toe.h
+
+1608543905 source:c:\users\wongz\ben'sf~1\degree~2\firsts~1\princi~1\assign~1\swe190~1\tic_ta~1.1_a\src\tic_tac_toe.cpp
+	<iostream>
+	<stdlib.h>
+	<iomanip>
+	<time.h>
+	"Tic_Tac_Toe.h"
+

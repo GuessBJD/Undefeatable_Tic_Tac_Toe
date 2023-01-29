@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1608218341 source:c:\users\wongz\ben's files\degree 2nd year\first semester\principle of artificial intelligence\assignment\tic_tac_toe\tic_tac_toe_final_v1.2_analysis_data_sets_simulation\main.cpp
+	<iostream>
+	"Tic_Tac_Toe.h"
+
+1608218489 c:\users\wongz\ben's files\degree 2nd year\first semester\principle of artificial intelligence\assignment\tic_tac_toe\tic_tac_toe_final_v1.2_analysis_data_sets_simulation\include\tic_tac_toe.h
+
+1608218341 source:c:\users\wongz\onedrive\desktop\swe1909766_sof106_final_project_tic_tac_toe_final_release\tic_tac_toe_final_v1.2_analysis_data_sets_simulation\main.cpp
+	<iostream>
+	"Tic_Tac_Toe.h"
+
+1608218489 c:\users\wongz\onedrive\desktop\swe1909766_sof106_final_project_tic_tac_toe_final_release\tic_tac_toe_final_v1.2_analysis_data_sets_simulation\include\tic_tac_toe.h
+
+1608561704 source:c:\users\yiying\downloads\swe1909766_sof106_final_project_tic_tac_toe_final_release\tic_tac_toe_final_v1.2.1_analysis_data_sets_simulation\main.cpp
+	<iostream>
+	"Tic_Tac_Toe.h"
+
+1608561705 c:\users\yiying\downloads\swe1909766_sof106_final_project_tic_tac_toe_final_release\tic_tac_toe_final_v1.2.1_analysis_data_sets_simulation\include\tic_tac_toe.h
+
+1608561706 source:c:\users\yiying\downloads\swe1909766_sof106_final_project_tic_tac_toe_final_release\tic_tac_toe_final_v1.2.1_analysis_data_sets_simulation\src\tic_tac_toe.cpp
+	<iostream>
+	<stdlib.h>
+	<iomanip>
+	<time.h>
+	"Tic_Tac_Toe.h"
+
