@@ -12,7 +12,7 @@ Coursework group research project of Principle of Artificial Intelligence. A con
 - Developed a rational agent/bot using Minimax algorithm to play tic tac toe
 - Experimented the rationality of the rational agent in playing tic tac toe
 
-## Research outcome
+### Research outcome
 - A rational agent always maximize the minimum loss or namely minimize the maximum loss
   - Maximize the minimum loss: To prioritize options with minimum loss *-one to secure a decision that maximizes his utility knowing the apponent will do everything they can to minimize his utility-*
   - Minimize the maximum loss: To avoid options with maximum loss *-one to secure a decision that minimizes the payoff of the opponent's knowing the opponent to do everything they can to maximize their payoff-*
