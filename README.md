@@ -22,7 +22,7 @@ Coursework group research project of Principle of Artificial Intelligence. A con
     - The agent always at least ensure a draw
 
 ## Documentation
-
+See [research report](https://drive.google.com/file/d/1PMYMaEaKMvdh9fn-BCbZFhcjNBoBORuk/view?usp=share_link)
 
 ## Presentation and Demonstration
 
